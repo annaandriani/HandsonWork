@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1618876949 source:/home/anna/Documentos/hands_on_work/main.cpp
+	<iostream>
+	<locale.h>
+	<stdlib.h>
+	<cmath>
+	<math.h>
+
